@@ -95,6 +95,7 @@ fun MainScreen(viewModel: MakananViewModel) {
             ProfilDialog(
                 user = user,
                 onDismissRequest = { showDialog = false }) {
+                CoroutineScope(Dispatchers.IO).launch { signOut(context, dataStore) }
                 showDialog = false
             }
         }
