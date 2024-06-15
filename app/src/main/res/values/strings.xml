@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mini Project 3</string>
+    <string name="error">Error</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="gambar">"Masukan Url Gambar"</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="delete_confirmation">Apakah anda yakin untuk menghapus</string>
+    <string name="are_you_sure">Hapus item ini</string>
+    <string name="add">Tambah</string>
+    <string name="add_makanan">Tambah Makanan</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="keterangan_makanan">Keterangan Makanan</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+</resources>
